@@ -4,15 +4,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-app-2/css/about.0e433876.css"
   },
   {
-    "revision": "18b83c034b45b4164012",
-    "url": "/vue-app-2/css/app.071259b2.css"
+    "revision": "f1267365fea1c215906b",
+    "url": "/vue-app-2/css/app.3fa66630.css"
   },
   {
     "revision": "a4b95650265b0170974f615b1c219de4",
     "url": "/vue-app-2/img/wikiwars_logo.a4b95650.png"
   },
   {
-    "revision": "eb4bf553e574a6d9d5091a8ea584eee9",
+    "revision": "bbd9e2f596091826f2eb3b83c68bca67",
     "url": "/vue-app-2/index.html"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-app-2/js/about.8ab333db.js"
   },
   {
-    "revision": "18b83c034b45b4164012",
-    "url": "/vue-app-2/js/app.d12d6a86.js"
+    "revision": "f1267365fea1c215906b",
+    "url": "/vue-app-2/js/app.eb553e5e.js"
   },
   {
     "revision": "f077cadcb110dc8da505",
