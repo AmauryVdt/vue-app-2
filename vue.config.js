@@ -2,6 +2,6 @@ module.exports = {
   lintOnSave: false,
   outputDir: 'docs',
   publicPath: process.env.NODE_ENV === "production"
-      ? '/vue-app-3/'
+      ? '/vue-app-2/'
       : '/'
 }
