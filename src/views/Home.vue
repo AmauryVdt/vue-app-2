@@ -3,7 +3,7 @@
     <img alt="Vue logo" src="../assets/wikiwars_logo.png"><br><br><br>
     <HelloWorld msg="Welcome to the WikiWars's Home page!"/>
     <h4 class="click_to_start">Click on the button to play at this amazing game !</h4>
-    <form action="https://google.com">
+    <form action="http://134.209.206.60/wars/#/">
       <button class="button_wikiwars rainbow" type="submit">W I K I W A R S</button>
     </form>
   </div>
